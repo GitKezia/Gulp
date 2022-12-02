@@ -53,4 +53,4 @@ git rm -r nome da pasta; // impede a pasta de subir para seu repositório;
 ## Rodar projeto
 - Executar o comando:
 
-npm install
+npm install 
